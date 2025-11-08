@@ -410,7 +410,7 @@ Este projeto me permitiu aprofundar conhecimentos em:
 
 Desenvolvido por **Sara Soares**
 
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/soariix/)
 - 📧 Email: sarinhapachecosoares@gmail.com
 - 💻 GitHub: [@soariix](https://github.com/soariix)
 - 🐛 Issues: [GitHub Issues](https://github.com/soariix/NailBook/issues)
