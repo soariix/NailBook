@@ -164,7 +164,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Desenvolvido com 💜 por [soariix](https://github.com/soariix)
+Desenvolvido por [soariix](https://github.com/soariix)
 
 ---
 
@@ -172,7 +172,7 @@ Desenvolvido com 💜 por [soariix](https://github.com/soariix)
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
-- 📧 Email: [seu-email@exemplo.com]
+- 📧 Email: [sarinhapachecosoares@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/soariix/NailBook/issues)
 
 ---
