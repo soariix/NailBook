@@ -15,11 +15,16 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // User::factory(10)->create();
+        // Criar usuário admin
+        User::create([
+            'name' => 'Admin NailBook',
+            'email' => 'admin@nailbook.com',
+            'password' => bcrypt('senha123')
+        ]);
 
-        User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
+        // Chamar seeder de serviços
+        $this->call([
+            ServicosSeeder::class,
         ]);
     }
 }
